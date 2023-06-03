@@ -6,7 +6,8 @@ title: Page Not Found
 <style>
     .sidebar {
         border-left: 5px solid orange;
-        padding-left: 10px;
+        padding-left: 20px;
+        padding-right: 10px;
     }
 
     .sidebar a {
@@ -14,6 +15,7 @@ title: Page Not Found
         margin-top: 10px;
     }
 </style>
+
 
 
 
