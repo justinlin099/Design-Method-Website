@@ -21,7 +21,10 @@ title: 設計階段
     }
 
     .image-container {
-        flex: 1;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: flex-start;
     }
 
     .responsive-image {
@@ -56,13 +59,15 @@ title: 設計階段
         <br>
     </div>
     <div class="image-container">
-        <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/bf794094-e872-483e-9581-9974a14f8141" class="responsive-image">
-        <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/118f10e9-852a-4b77-b65b-e63b28f34783" class="responsive-image">
-        <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/0ba4ced6-512a-476a-a0a9-d92b3bf8d399" class="responsive-image">
-        <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/d90acefe-8f00-4823-bfcc-70b689625c2b" class="responsive-image">
-        <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/06084e86-a8a0-41e6-8eb8-9314c4c10684" class="responsive-image">
-        <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/5a85edd1-3987-448b-92f0-cb9ba8e6b2f4" class="responsive-image">
-        <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/1e13ef1e-9d4d-4880-a332-1a41fc163b3d" class="responsive-image">
+        <div>
+            <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/bf794094-e872-483e-9581-9974a14f8141" class="responsive-image">
+            <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/118f10e9-852a-4b77-b65b-e63b28f34783" class="responsive-image">
+            <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/0ba4ced6-512a-476a-a0a9-d92b3bf8d399" class="responsive-image">
+            <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/d90acefe-8f00-4823-bfcc-70b689625c2b" class="responsive-image">
+            <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/06084e86-a8a0-41e6-8eb8-9314c4c10684" class="responsive-image">
+            <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/5a85edd1-3987-448b-92f0-cb9ba8e6b2f4" class="responsive-image">
+            <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/1e13ef1e-9d4d-4880-a332-1a41fc163b3d" class="responsive-image">
+        </div>
     </div>
 </div>
 
