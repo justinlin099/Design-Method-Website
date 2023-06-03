@@ -5,6 +5,7 @@ layout: home
 <br>
 <br>
 <center>
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/e2ed9a90-612e-4791-a04a-d45590eeffdd"  style="margin-right: 20px;">
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/505c8598-10fc-47d3-abb4-f1e417022bc6"  style="margin-right: 20px;">
 
 </center>
+
