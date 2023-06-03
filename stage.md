@@ -8,7 +8,7 @@ title: 設計階段
         border-left: 5px solid orange;
         padding-left: 20px;
         padding-right: 10px;
-        justify-content: flex-start;
+        justify-content: left;
     }
 
     .sidebar a {
@@ -26,8 +26,8 @@ title: 設計階段
     .image-container {
         display: flex;
         flex-wrap: wrap;
-        justify-content: flex-start;
-        align-items: flex-start;
+        justify-content: right;
+        align-items: right;
         width: 100%;
         margin-left: auto;
         margin-right: auto;
