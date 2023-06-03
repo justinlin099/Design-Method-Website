@@ -14,17 +14,11 @@ en: &DEFAULT_EN
     - title: "方法總覽"
       url: /overview/
     - title: "Portfolio"
-      section: portfolio
+      url: /overview/
     - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: /overview/
+    - title: "團隊成員"
+      url: //
 en-US:
   <<: *DEFAULT_EN
 en-CA:
