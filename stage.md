@@ -44,8 +44,9 @@ title: 設計階段
 <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/c95cf6ef-ecd5-4c0c-a683-43d5965743a4" id="stage5"><br>
 <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/ac2835c1-f5b8-442d-b0b5-a2cd0e8be5df" id="stage6"><br>
 <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/bd5e7d79-2008-4f67-ac2c-475d46517411" id="stage7"><br>
+<center>
 <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/e2ed9a90-612e-4791-a04a-d45590eeffdd">
-
+</center>
 
 
 
