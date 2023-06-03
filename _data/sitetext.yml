@@ -95,10 +95,7 @@ en: &DEFAULT_EN
   team:
     title: "團隊分工模式"
     text: "每個組員根據自己的長才，分工完成作業"
-    subtext:  <div class="col-lg-12 text-center">
-	              <h2 class="section-heading text-uppercase">Privacy Policy</h2>
-              </div>
-             安裝說明在[這裡](./Guide.html)  
+    subtext: 安裝說明在[這裡](./Guide.html)  
              Check installation guide [here](./Guide.html).
     section: team
     people:
