@@ -14,7 +14,6 @@ layout: team
 </div>
 <br>
 <br>
-<br>
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/30f6a792-c53b-4958-af11-6e106afba270" alt="林中行" width="120" style="margin-right: 20px; border-radius: 50%;">
@@ -27,7 +26,6 @@ layout: team
 </div>
 <br>
 <br>
-<br>
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/1dddeddf-cc5e-4463-b531-080013fc5abb" alt="何嘉瑜" width="120" style="margin-right: 20px;">
@@ -40,7 +38,6 @@ layout: team
 </div>
 <br>
 <br>
-<br>
 
 
 <div style="display: flex; align-items: center;">
@@ -52,7 +49,6 @@ layout: team
         *這是我家的狗 他超可愛
     </div>
 </div>
-<br>
 <br>
 <br>
 
