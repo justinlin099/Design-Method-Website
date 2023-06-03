@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: stage
 title: 設計階段
 ---
 
