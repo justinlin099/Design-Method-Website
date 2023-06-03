@@ -18,7 +18,7 @@ title: 設計階段
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;max-width:50%;">
     <div class="sidebar">
         <br>
         <h1>設計階段</h1>
