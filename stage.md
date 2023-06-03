@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Page Not Found
+---
 
 <style>
     .sidebar {
