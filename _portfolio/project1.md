@@ -1,7 +1,7 @@
 ---
-title: Project Threads
+title: 桌面研究
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/桌面研究.png
 alt: Shirts on a hanger
 
 caption:
