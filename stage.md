@@ -9,8 +9,6 @@ title: Page Not Found
         padding-left: 10px;
     }
 
-    
-
     .sidebar a {
         display: block;
         margin-top: 10px;
@@ -18,6 +16,7 @@ title: Page Not Found
 </style>
 
 <div class="sidebar">
+    <br>
     <h1>大标题</h1>
     <h2>小标题</h2>
     <h2>小标题</h2>
