@@ -33,6 +33,18 @@ title: 設計階段
         .container {
             flex-direction: column;
         }
+
+        .sidebar {
+            width: 100%;
+            max-width: none;
+            padding: 20px;
+            border-left: none;
+            border-top: 5px solid orange;
+        }
+
+        .sidebar a {
+            margin-top: 0;
+        }
     }
 </style>
 
@@ -53,6 +65,8 @@ title: 設計階段
         <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/1e13ef1e-9d4d-4880-a332-1a41fc163b3d" class="responsive-image">
     </div>
 </div>
+
+
 
 
 ## Chapter 1 {#chapter1}
