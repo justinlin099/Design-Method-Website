@@ -25,8 +25,9 @@ layout: team
 </div>
 <br>
 
+
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/1dddeddf-cc5e-4463-b531-080013fc5abb" alt="何嘉瑜" width="120" style="margin-right: 20px;">
+    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/840a5c37-9463-4d91-9298-0965a7b24ac6" alt="何嘉瑜" width="120" style="margin-right: 20px;">
     <div>
         <h4>B11010042陳威旭/副研究員</h4>
         在現今講求效率的世代，我們可以透過不同的方法以及策略的運用，以快速取得和定義目標，找出問題的突破點，開創新的發展機會，挖掘新的可能性。<br>
