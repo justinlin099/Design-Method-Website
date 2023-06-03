@@ -19,7 +19,7 @@ title: 設計階段
 
 
 <div style="display: flex; align-items: center;">
-    <div class="sidebar">
+    <div class="sidebar" style="max-width:50%">
         <br>
         <h1>設計階段</h1>
         <h6>為了使設計師更迅速的進行任務，我們將設計方法依照右側七個階段進行分類:</h6>
