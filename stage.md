@@ -19,13 +19,13 @@ title: 設計階段
 
 
 <div style="display: flex; align-items: center;">
-    <div class="sidebar" style="max-width:50%">
+    <div class="sidebar" style="max-width:50%;height:auto;">
         <br>
         <h1>設計階段</h1>
         <h6>為了使設計師更迅速的進行任務，我們將設計方法依照右側七個階段進行分類:</h6>
         <br>
     </div>
-    <div style="max-width:50%">
+    <div style="max-width:50%;height:auto;">
         <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/bf794094-e872-483e-9581-9974a14f8141">
         <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/118f10e9-852a-4b77-b65b-e63b28f34783">
         <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/0ba4ced6-512a-476a-a0a9-d92b3bf8d399">
