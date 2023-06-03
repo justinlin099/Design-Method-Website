@@ -32,10 +32,10 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "方法總覽"
+    text: "設計方法百百種，我們從當中找出24種方法，提共案例與講解，讓設計師更快速找到自己需要的、適合自己的設計方法"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "關閉方法"
 
   timeline:
     title: "Timeline"
