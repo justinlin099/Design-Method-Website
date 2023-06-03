@@ -14,16 +14,26 @@ title: 設計階段
         display: block;
         margin-top: 10px;
     }
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .image-container {
+        flex: 1;
+    }
+
     .responsive-image {
         max-width: 100%;
         height: auto;
     }
 
     @media (max-width: 600px) {
-        .sidebar, .responsive-image {
-            width: 100%;
-            max-width: 100%;
+        .container {
+            flex-direction: column;
         }
+    }
 </style>
 
 <div style="display: flex; flex-wrap: wrap;">
