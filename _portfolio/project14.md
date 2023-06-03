@@ -1,11 +1,11 @@
 ---
-title: 桌面研究
+title: 創新矩陣
 subtitle: 入門資料的收集及呈現
-image: assets/img/portfolio/桌面研究.png
+image: assets/img/portfolio/創新矩陣.png
 
 caption:
   subtitle: "#我是標籤 #我也是標籤 #大家都是標籤 #測試測試"
-  thumbnail: assets/img/portfolio/桌面研究.png
+  thumbnail: assets/img/portfolio/創新矩陣.png
 ---
 ### 方法說明
 
