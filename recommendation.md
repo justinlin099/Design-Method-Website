@@ -1,5 +1,5 @@
 ---
-layout: stage
+layout: recommendation
 title: 推薦方法
 ---
 
@@ -16,7 +16,7 @@ title: 推薦方法
     }
 </style>
 
-
+<br><br><br>
 
 <div style="display: flex; align-items: center;">
     <div class="sidebar" style="max-width:50%;height:auto;">
