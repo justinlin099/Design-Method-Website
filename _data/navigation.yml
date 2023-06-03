@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "方法總覽"
       url: /overview/
-    - title: "Portfolio"
-      url: /overview/
-    - title: "About"
-      url: /overview/
+    - title: "設計階段"
+      url: /stage/
+    - title: "推薦方法"
+      url: /recommendation/
     - title: "團隊成員"
       url: /team/
 en-US:
