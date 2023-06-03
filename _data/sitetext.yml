@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 第一組
+    text: 設計方法 Design Method
+    button: 開始!
     buttonlink: "#services"
 
   services:
