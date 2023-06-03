@@ -95,8 +95,7 @@ en: &DEFAULT_EN
   team:
     title: "團隊分工模式"
     text: "每個組員根據自己的長才，分工完成作業"
-    subtext: 安裝說明在[這裡](./Guide.html)  \n
-             Check installation guide [here](./Guide.html).
+    
     section: team
     people:
       - name: "講出來"
