@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
+    - title: "方法總覽"
+      url: /overview/
     - title: "Portfolio"
       section: portfolio
     - title: "About"
