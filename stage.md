@@ -33,8 +33,6 @@ title: 設計階段
     .responsive-image {
         max-width: 100%;
         height: auto;
-        margin-right: 10px;
-        margin-bottom: 10px;
     }
 
     @media (max-width: 600px) {
