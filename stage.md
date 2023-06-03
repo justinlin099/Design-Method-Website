@@ -27,11 +27,14 @@ title: 設計階段
         flex-wrap: wrap;
         justify-content: flex-start;
         align-items: flex-start;
+        width: 100%;
     }
 
     .responsive-image {
         max-width: 100%;
         height: auto;
+        margin-right: 10px;
+        margin-bottom: 10px;
     }
 
     @media (max-width: 600px) {
