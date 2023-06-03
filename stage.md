@@ -17,9 +17,9 @@ title: Page Not Found
 
 <div class="sidebar">
     <br>
-    <h1>大标题</h1>
-    <h2>小标题</h2>
-    <h2>小标题</h2>
+    <h1>設計階段</h1>
+    <h6>為了使設計師更迅速的進行任務，我們將設計方法依照右側七個階段進行分類:
+</h6>
     <a href="#chapter1">跳到下面各章节的目录</a>
 </div>
 
