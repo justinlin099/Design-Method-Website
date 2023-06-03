@@ -28,6 +28,8 @@ title: 設計階段
         justify-content: flex-start;
         align-items: flex-start;
         width: 100%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .responsive-image {
