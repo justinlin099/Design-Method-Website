@@ -18,12 +18,14 @@ title: 設計階段
     .containera {
         display: flex;
         flex-wrap: wrap;
+        justify-content: flex-start;
         
     }
 
     .image-container {
         display: flex;
         flex-wrap: wrap;
+        justify-content: flex-start;
 
     }
 
