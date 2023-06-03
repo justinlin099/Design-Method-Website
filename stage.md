@@ -15,7 +15,7 @@ title: 設計階段
         margin-top: 10px;
     }
 
-    .container {
+    .container1 {
         display: flex;
         flex-wrap: wrap;
         justify-content: flex-start;
@@ -35,7 +35,7 @@ title: 設計階段
     }
 
     @media (max-width: 600px) {
-        .container {
+        .container1 {
             flex-direction: column;
         }
 
@@ -53,7 +53,7 @@ title: 設計階段
     }
 </style>
 
-<div class="container">
+<div class="container1">
     <div class="sidebar">
         <br>
         <h1>設計階段</h1>
