@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: 桌面研究
+subtitle: 入門資料的收集及呈現
+image: assets/img/portfolio/桌面研究.png
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  subtitle: "#我是標籤 #我也是標籤 #大家都是標籤 #測試測試"
+  thumbnail: assets/img/portfolio/桌面研究.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+### 方法說明
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+### 使用階段
+
+### 操作步驟
+
+### 案例
+
+
 
