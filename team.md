@@ -1,5 +1,6 @@
 ---
 layout: team
+title: 團隊分工
 ---
 
 
@@ -27,7 +28,7 @@ layout: team
 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/840a5c37-9463-4d91-9298-0965a7b24ac6" alt="何嘉瑜" width="120" style="margin-right: 20px;">
+    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/840a5c37-9463-4d91-9298-0965a7b24ac6" alt="陳威旭" width="120" style="margin-right: 20px;">
     <div>
         <h4>B11010042 陳威旭/副研究員</h4>
         在現今講求效率的世代，我們可以透過不同的方法以及策略的運用，以快速取得和定義目標，找出問題的突破點，開創新的發展機會，挖掘新的可能性。<br>
@@ -36,10 +37,11 @@ layout: team
 </div>
 <br>
 
+
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/1dddeddf-cc5e-4463-b531-080013fc5abb" alt="何嘉瑜" width="120" style="margin-right: 20px;">
+    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/545d650f-978d-4d6b-b2b0-13675a039ceb" alt="林鈺錡" width="120" style="margin-right: 20px;">
     <div>
-        <h4>B11010036 何嘉瑜/導演</h4>
+        <h4>B11010040 林鈺錡/看護員</h4>
         人的大腦能裝的東西有限，因此我們需要透過策略性的方式將資料做整理，使我們能夠消化大量的資訊。
         從資料中擷取重點、找到盲點、洞察未來、發展可能性!<br>
         *這是我家的狗 他超可愛
@@ -50,10 +52,8 @@ layout: team
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/1dddeddf-cc5e-4463-b531-080013fc5abb" alt="何嘉瑜" width="120" style="margin-right: 20px;">
     <div>
-        <h4>B11010036 何嘉瑜/導演</h4>
-        人的大腦能裝的東西有限，因此我們需要透過策略性的方式將資料做整理，使我們能夠消化大量的資訊。
-        從資料中擷取重點、找到盲點、洞察未來、發展可能性!<br>
-        *這是我家的狗 他超可愛
+        <h4>B11010036 楊芷柔/設計師</h4>
+        善用好的工具能讓事情事半功倍，在這資訊量爆炸的時代，也許就需要像這樣的整理方式讓大家能夠更明瞭自己適合的方式。
     </div>
 </div>
 <br>
