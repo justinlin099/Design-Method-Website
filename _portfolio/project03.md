@@ -16,3 +16,6 @@ caption:
 3. 並彙集成資料
 
 
+![IMG_0625 1](https://github.com/justinlin099/Design-Method-Website/assets/61717681/d5b9616c-bf33-4b10-84c4-b556743d73d3)
+
+
