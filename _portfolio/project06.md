@@ -19,3 +19,5 @@ caption:
 
 
 
+![事拾圖_1 2](https://github.com/justinlin099/Design-Method-Website/assets/61717681/cb51984e-c27b-415d-b1c7-ca149c3a177f)
+![事拾圖_2 2](https://github.com/justinlin099/Design-Method-Website/assets/61717681/18fc58cd-d526-44f5-b271-d0caa8e42083)
