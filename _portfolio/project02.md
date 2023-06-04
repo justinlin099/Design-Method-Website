@@ -17,7 +17,7 @@ caption:
 3. 放射狀向延伸關鍵字並畫上輔助圖案，引發更多聯想
 4. 將互有關鍵字的用虛線連接起來
 
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/7829cc40-0148-4268-ad38-2f872b9dbf6f"  style="max-width:%; height:auto;">
 
-![image 24](https://github.com/justinlin099/Design-Method-Website/assets/61717681/7829cc40-0148-4268-ad38-2f872b9dbf6f)
 
 
