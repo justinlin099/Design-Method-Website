@@ -17,5 +17,7 @@ caption:
 2. 具體描述顧客行為
 3. 描述前台行動、後台行動與支援流程，並以箭頭給與行動先後
 
-
+### 範例
+一輛長長的火車駛進山洞
+![Group 128](https://github.com/justinlin099/Design-Method-Website/assets/61717681/e10e0d8b-e60e-4eda-9dc7-bbba3c2f1784)
 
