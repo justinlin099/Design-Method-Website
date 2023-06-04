@@ -15,7 +15,7 @@ caption:
 2. 觀察顧客差異/環境使用情況/服務體驗...等
 3. 並彙集成資料
 
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/d5b9616c-bf33-4b10-84c4-b556743d73d3"  style="max-width:80%; height:auto;">
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/d5b9616c-bf33-4b10-84c4-b556743d73d3"  style="max-width:100%; height:auto;">
 
 
 
