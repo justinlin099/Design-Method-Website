@@ -33,7 +33,7 @@ title: 推薦方法
 <br>
 <br>
 <div style="display: flex; align-items: center;">
-    <a class="portfolio-link" data-toggle="modal" href="#p7"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/04ed1f8f-9dd3-4565-8bb5-5d33eee3ebbd" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;"></a>
+    <a class="portfolio-link" data-toggle="modal" href="#p13"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/04ed1f8f-9dd3-4565-8bb5-5d33eee3ebbd" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;"></a>
     <div>
         <h4>優點</h4>
         能夠促進團隊的合作能力，並激發團隊的創造力和想像力，能夠快速並大量的產生想法。<br>
@@ -48,7 +48,7 @@ title: 推薦方法
 <br>
 <br>
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/abf34764-7db3-497d-8b8f-dc75d817d002" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;">
+    <a class="portfolio-link" data-toggle="modal" href="#p9"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/abf34764-7db3-497d-8b8f-dc75d817d002" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;"></a>
     <div>
         <h4>優點</h4>
         以廣泛的角度去思考統整組織，形成初步的共識。<br>
@@ -63,7 +63,7 @@ title: 推薦方法
 <br>
 <br>
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/5021ccfe-1387-48ef-8311-2c6677b9e6d1" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;">
+    <a class="portfolio-link" data-toggle="modal" href="#p15"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/5021ccfe-1387-48ef-8311-2c6677b9e6d1" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;"></a>
     <div>
         <h4>優點</h4>
         鼓勵多樣性和多角度思考，因此出來的想法較容易突破固有框架，且具有一定深度。同時，因每個人都要給與回饋，群體參與度較高，團隊較容易有凝聚力。<br>
@@ -78,7 +78,7 @@ title: 推薦方法
 <br>
 <br>
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/d1ff7fff-8e9c-4a89-9ca8-d70ebef7219c" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;">
+    <a class="portfolio-link" data-toggle="modal" href="#p14"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/d1ff7fff-8e9c-4a89-9ca8-d70ebef7219c" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;"></a>
     <div>
         <h4>優點</h4>
         透過對比別人的案例與自己需要進行設計發想的部分，把兩個東西混在一起，蹦出新滋味。<br>
@@ -92,21 +92,6 @@ title: 推薦方法
 </div>
 <br>
 
-
-<div class="col-md-4 col-sm-6 row-md-4 row-sm-6 portfolio-item">
-<a class="portfolio-link" data-toggle="modal" href="#p5">
-  <div class="portfolio-hover">
-    <div class="portfolio-hover-content">
-      <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
-    </div>
-  </div>
-  <img class="img-fluid" src="{{ site.portfolio.project5.caption.thumbnail }}" alt="">
-</a>
-<div class="portfolio-caption">
-  <h4>{{ site.portfolio.project5.caption.title }}</h4>
-  <p class="text-muted">{{ site.portfolio.project5.caption.subtitle }}</p>
-</div>
-</div>
 
 {% include modals.html %}
 	
