@@ -93,3 +93,18 @@ title: 推薦方法
 <br>
 
 
+<div class="col-md-4 col-sm-6 row-md-4 row-sm-6 portfolio-item">
+<a class="portfolio-link" data-toggle="modal" href="#p5">
+  <div class="portfolio-hover">
+    <div class="portfolio-hover-content">
+      <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
+    </div>
+  </div>
+  <img class="img-fluid" src="{{ site.portfolio.project5.caption.thumbnail }}" alt="">
+</a>
+<div class="portfolio-caption">
+  <h4>{{ site.portfolio.project5.caption.title }}</h4>
+  <p class="text-muted">{{ site.portfolio.project5.caption.subtitle }}</p>
+</div>
+</div>
+	
