@@ -20,6 +20,6 @@ caption:
 步驟轉化為用戶故事，釐清釐清服務價值
 
 ### 案例
-<a href="https://github.com/justinlin099/Design-Method-Website/assets/61717681/6abc4c9a-2f25-468b-bd6b-34215c38e1bd"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/6abc4c9a-2f25-468b-bd6b-34215c38e1bd"  style="max-width:100%; height:auto;"></a>
+<a href="https://github.com/justinlin099/Design-Method-Website/assets/61717681/200badfa-31a0-4f7f-84a4-f4711e4dd138"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/200badfa-31a0-4f7f-84a4-f4711e4dd138"  style="max-width:100%; height:auto;"></a>
 
 
