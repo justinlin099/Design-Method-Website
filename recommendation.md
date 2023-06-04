@@ -107,4 +107,6 @@ title: 推薦方法
   <p class="text-muted">{{ site.portfolio.project5.caption.subtitle }}</p>
 </div>
 </div>
+
+{% include modals.html %}
 	
