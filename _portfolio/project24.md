@@ -18,7 +18,7 @@ caption:
 ### 操作步驟
 1. 回答下圖問題
 2. 以顧客視角、公司視角做描述
-3. 
+
 ### 案例
 
 <a href="https://github.com/justinlin099/Design-Method-Website/assets/61717681/f9391ad7-ceca-4bb0-bd94-06fdeb308266"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/f9391ad7-ceca-4bb0-bd94-06fdeb308266"  style="max-width:100%; height:auto;"></a>
