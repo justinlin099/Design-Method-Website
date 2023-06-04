@@ -18,5 +18,4 @@ caption:
 3. 依重要性排序
 
 ### 範例
-![350367412_206308371831345_8675087410164552477_n 1](https://github.com/justinlin099/Design-Method-Website/assets/61717681/227bd5b0-8ae9-43a1-8245-4e2ee562a031)
-
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/227bd5b0-8ae9-43a1-8245-4e2ee562a031"  style="max-width:100%; height:auto;">
