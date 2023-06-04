@@ -18,6 +18,6 @@ caption:
 3. 內容編排-資料收集與盤點/觀點與分類資料/資料與圖像呈現/意義展現
 
 
+![事拾圖_1 2(1)](https://github.com/justinlin099/Design-Method-Website/assets/61717681/96b20d3f-7a38-41ae-a9df-bec4a2475b3c)
 
-![事拾圖_1 2](https://github.com/justinlin099/Design-Method-Website/assets/61717681/cb51984e-c27b-415d-b1c7-ca149c3a177f)
-![事拾圖_2 2](https://github.com/justinlin099/Design-Method-Website/assets/61717681/18fc58cd-d526-44f5-b271-d0caa8e42083)
+![事拾圖_2 2(1)](https://github.com/justinlin099/Design-Method-Website/assets/61717681/9ade7df2-a300-4154-a091-ae9b8e6aaf85)
