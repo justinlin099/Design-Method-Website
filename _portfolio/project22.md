@@ -17,7 +17,7 @@ caption:
 1. 將服務藍圖內容作整理
 2. 以說故事的方式讓訪客做想像，
 3. 遵循下圖四大面向做測試問題規劃
-4. 記錄用戶提出回饋。
+4. 記錄用戶提出回饋。  
 <a href="https://github.com/justinlin099/Design-Method-Website/assets/61717681/790ac156-1dc0-4002-9bea-cc5353617756"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/790ac156-1dc0-4002-9bea-cc5353617756"  style="max-width:100%; height:auto;"></a>
 
 ### 案例
