@@ -17,7 +17,6 @@ caption:
 2. 用圖像數據來表達田野事實
 3. 內容編排-資料收集與盤點/觀點與分類資料/資料與圖像呈現/意義展現
 
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/96b20d3f-7a38-41ae-a9df-bec4a2475b3c"  style="max-width:100%; height:auto;">
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/9ade7df2-a300-4154-a091-ae9b8e6aaf85"  style="max-width:100%; height:auto;">
 
-![事拾圖_1 2(1)](https://github.com/justinlin099/Design-Method-Website/assets/61717681/96b20d3f-7a38-41ae-a9df-bec4a2475b3c)
-
-![事拾圖_2 2(1)](https://github.com/justinlin099/Design-Method-Website/assets/61717681/9ade7df2-a300-4154-a091-ae9b8e6aaf85)
