@@ -21,4 +21,4 @@ caption:
 
 
 
-![IMG_0624](https://github.com/justinlin099/Design-Method-Website/assets/61717681/66937b32-89a1-4604-b45b-10e89a58a879)
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/66937b32-89a1-4604-b45b-10e89a58a879"  style="max-width:100%; height:auto;">
