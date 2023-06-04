@@ -1,19 +1,18 @@
 ---
 title: 觀察法
-subtitle: 入門資料的收集及呈現
-image: assets/img/portfolio/觀察法.png
+subtitle: "#問題探索/田野採集 #用戶洞察 #基本功"
+image: assets/img/portfolio/Vector.png
 
 caption:
-  subtitle: "#我是標籤 #我也是標籤 #大家都是標籤 #測試測試"
+  subtitle: "#問題探索/田野採集 #用戶洞察 #基本功"
   thumbnail: assets/img/portfolio/觀察法.png
 ---
 ### 方法說明
-
-### 使用階段
+透過細致觀察、洞察細節，揭示用戶需求、行為和痛點，提供設計的啟發和方向。
 
 ### 操作步驟
-
-### 案例
-
+1.選定兩間餐廳並到現場進行觀察。
+2.觀察顧客差異/環境使用情況/服務體驗...等
+3.並彙集成資料
 
 
