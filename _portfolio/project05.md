@@ -18,3 +18,5 @@ caption:
 3. 深度訪談：創造一個舒適和開放的氛圍，鼓勵被訪者分享他們的觀點、經驗和情感，並深入探索他們的需求和動機。
 
 
+![6e8dc692146d18493a136c2 1](https://github.com/justinlin099/Design-Method-Website/assets/61717681/f1e03152-7d1f-48ff-97f5-07adea94837e)
+
