@@ -39,7 +39,7 @@ title: 團隊分工
 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/545d650f-978d-4d6b-b2b0-13675a039ceb" alt="林鈺錡" width="120" height="120" overflow=hidden style="margin-right: 20px;">
+    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/545d650f-978d-4d6b-b2b0-13675a039ceb" alt="林鈺錡" width="120" height="120"  object-fit= cover style="margin-right: 20px;">
     <div>
         <h4>B11010040 林鈺錡/看護員</h4>
         人的大腦能裝的東西有限，因此我們需要透過策略性的方式將資料做整理，使我們能夠消化大量的資訊。
