@@ -21,7 +21,7 @@ caption:
 4. 接著，票選出最具有可行性的提案，並將其取出放置結果區
 
 ### 案例
-
-
+<a href="https://github.com/justinlin099/Design-Method-Website/assets/61717681/b6f0a312-0490-4dca-b195-25f1ed4b89a1"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/b6f0a312-0490-4dca-b195-25f1ed4b89a1"  style="max-width:100%; height:auto;"></a>
+<a href="https://github.com/justinlin099/Design-Method-Website/assets/61717681/c56027eb-8c6d-40f3-a167-c43c93b16872"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/c56027eb-8c6d-40f3-a167-c43c93b16872"  style="max-width:100%; height:auto;"></a>
 
 
