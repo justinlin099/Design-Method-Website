@@ -19,5 +19,6 @@ caption:
 
 ### 範例
 一輛長長的火車駛進山洞
-![Group 128](https://github.com/justinlin099/Design-Method-Website/assets/61717681/e10e0d8b-e60e-4eda-9dc7-bbba3c2f1784)
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/e10e0d8b-e60e-4eda-9dc7-bbba3c2f1784"  style="max-width:100%; height:auto;">
+
 
