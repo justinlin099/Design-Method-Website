@@ -2,6 +2,14 @@
 layout: team
 title: 團隊分工
 ---
+<style>
+    .box img{
+        width: 300px;
+        height: 300px;
+        border-radius:50%;
+        object-fit: cover;
+    }
+</style>
 
 
 <div style="display: flex; align-items: center;">
@@ -39,21 +47,21 @@ title: 團隊分工
 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/545d650f-978d-4d6b-b2b0-13675a039ceb" alt="林鈺錡" width="120" height="120"  object-fit= cover style="margin-right: 20px;">
+    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/d685fc0b-8cd8-4d78-aa51-c413dcfbfb28" alt="林鈺錡" width="120" style="margin-right: 20px; border-radius: 50%;">
     <div>
         <h4>B11010040 林鈺錡/看護員</h4>
-        人的大腦能裝的東西有限，因此我們需要透過策略性的方式將資料做整理，使我們能夠消化大量的資訊。
-        從資料中擷取重點、找到盲點、洞察未來、發展可能性!<br>
-        *這是我家的狗 他超可愛
+        善用好的工具能讓事情事半功倍，在這資訊量爆炸的時代，也許就需要像這樣的整理方式讓大家能夠更明瞭自己適合的方式。
     </div>
 </div>
 <br>
 
+
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/1dddeddf-cc5e-4463-b531-080013fc5abb" alt="何嘉瑜" width="120" style="margin-right: 20px;">
+    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/b300e940-8b82-4f41-8b96-3c51582f52ce" alt="楊芷柔" width="120" style="margin-right: 20px;">
     <div>
         <h4>B11010036 楊芷柔/設計師</h4>
-        善用好的工具能讓事情事半功倍，在這資訊量爆炸的時代，也許就需要像這樣的整理方式讓大家能夠更明瞭自己適合的方式。
+        「失敗乃成功之母」我相信每一次失敗都是一個寶貴的學習機會，它們鼓勵我不斷嘗試、不怕挑戰。透過過去的經驗，學習如何從失敗中獲取智慧和成長，並且在未來的創新之路上更加堅定。<br>
+        <i>*WAY UP</i>
     </div>
 </div>
 <br>
