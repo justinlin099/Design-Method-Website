@@ -33,7 +33,7 @@ title: 推薦方法
 <br>
 <br>
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/04ed1f8f-9dd3-4565-8bb5-5d33eee3ebbd" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;">
+    <a class="portfolio-link" data-toggle="modal" href="#p7"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/04ed1f8f-9dd3-4565-8bb5-5d33eee3ebbd" alt="何嘉瑜" width="200" style="margin-right: 20px; border-radius: 50%;"></a>
     <div>
         <h4>優點</h4>
         能夠促進團隊的合作能力，並激發團隊的創造力和想像力，能夠快速並大量的產生想法。<br>
