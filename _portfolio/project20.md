@@ -1,19 +1,25 @@
 ---
 title: 使用者故事對照
-subtitle: 入門資料的收集及呈現
-image: assets/img/portfolio/使用者故事對照.png
+subtitle: "#原型測試 #使用情境 #用戶故事"
+image: https://github.com/justinlin099/Design-Method-Website/assets/61717681/d49be482-76fa-4055-bb6e-47f8fffe5a4c
+
 
 caption:
-  subtitle: "#我是標籤 #我也是標籤 #大家都是標籤 #測試測試"
+  subtitle: "#原型測試 #使用情境 #用戶故事"
   thumbnail: assets/img/portfolio/使用者故事對照.png
 ---
 ### 方法說明
-
-### 使用階段
+延續先前的顧客歷程元素地圖，定義出使用情境，並拆解出使用步驟，
+最後以使用者的視角描述:
+「身為（角色），我想要透過（目標），讓我能夠（獲得價值）」。
+成為具體用戶故事。
 
 ### 操作步驟
+參考顧客旅程地圖，定義產品服務相關的使用情境
+拆解使用情境，結構化服務
+步驟轉化為用戶故事，釐清釐清服務價值
 
 ### 案例
-
+<a href="https://github.com/justinlin099/Design-Method-Website/assets/61717681/6abc4c9a-2f25-468b-bd6b-34215c38e1bd"><img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/6abc4c9a-2f25-468b-bd6b-34215c38e1bd"  style="max-width:100%; height:auto;"></a>
 
 
