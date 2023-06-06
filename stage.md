@@ -37,13 +37,13 @@ title: 設計階段
 </div>
 <br>
 
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/ac8c3031-56d9-4525-9b4f-245ade811a19" id="stage1" style="margin-bottom: 30px;"><br>
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/8fc6a080-5875-46d5-b416-22e0bf545e00" id="stage2" style="margin-bottom: 30px;"><br>
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/bac82b9e-806b-46fc-bc4a-7df3d6be65e4" id="stage3" style="margin-bottom: 30px;"><br>
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/e96369e3-d8bf-4df7-b528-2a1106483915" id="stage4" style="margin-bottom: 30px;"><br>
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/c95cf6ef-ecd5-4c0c-a683-43d5965743a4" id="stage5" style="margin-bottom: 30px;"><br>
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/ac2835c1-f5b8-442d-b0b5-a2cd0e8be5df" id="stage6" style="margin-bottom: 30px;"><br>
-<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/bd5e7d79-2008-4f67-ac2c-475d46517411" id="stage7" style="margin-bottom: 30px;"><br>
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/ac8c3031-56d9-4525-9b4f-245ade811a19" id="stage1" style="margin-bottom: 30px; max-width:100%; height:auto;"><br>
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/8fc6a080-5875-46d5-b416-22e0bf545e00" id="stage2" style="margin-bottom: 30px; max-width:100%; height:auto;"><br>
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/bac82b9e-806b-46fc-bc4a-7df3d6be65e4" id="stage3" style="margin-bottom: 30px; max-width:100%; height:auto;"><br>
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/e96369e3-d8bf-4df7-b528-2a1106483915" id="stage4" style="margin-bottom: 30px; max-width:100%; height:auto;"><br>
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/c95cf6ef-ecd5-4c0c-a683-43d5965743a4" id="stage5" style="margin-bottom: 30px; max-width:100%; height:auto;"><br>
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/ac2835c1-f5b8-442d-b0b5-a2cd0e8be5df" id="stage6" style="margin-bottom: 30px; max-width:100%; height:auto;"><br>
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/bd5e7d79-2008-4f67-ac2c-475d46517411" id="stage7" style="margin-bottom: 30px; max-width:100%; height:auto;"><br>
 <center>
 <img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/e2ed9a90-612e-4791-a04a-d45590eeffdd">
 </center>
@@ -51,8 +51,6 @@ title: 設計階段
 <br>
 <br>
 <br>
-
-
 
 
 
