@@ -67,4 +67,5 @@ title: 團隊分工
 <br>
 <br>
 <br>
+<img src="https://github.com/justinlin099/Design-Method-Website/assets/61717681/fbfc7236-dc97-4c94-a206-564e4227abae"  style="max-width:100%; height:auto;">
 
