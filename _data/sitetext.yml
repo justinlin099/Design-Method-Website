@@ -100,7 +100,7 @@ en: &DEFAULT_EN
         role: "就像腦力激盪方法一樣，講出自己的想法才會有更多火花"
         image: assets/img/team/1.jpg
       - name: "發揮長才"
-        role: "每個人發揮自己的能力"
+        role: "每個人發揮自己的能力，共同完成工作"
         image: assets/img/team/2.jpg
       - name: "智能輔助"
         role: "聰明的使用各種現代工具，強化自己的能力"
