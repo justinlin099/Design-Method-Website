@@ -91,7 +91,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "團隊分工模式"
+    title: "團隊分工與關鍵收穫"
     text: "每個組員根據自己的長才，分工完成作業"
     
     section: team
