@@ -1,7 +1,7 @@
 ---
 title: 腦力激盪
 subtitle: "#互相補充和連結 #大量產生點子 #不評價和批評"
-image: ![primary (Stroke)(2)](https://github.com/justinlin099/Design-Method-Website/assets/61717681/0a88e9a2-8677-40cd-a6a0-d01d4b8da9ad)
+image: https://github.com/justinlin099/Design-Method-Website/assets/61717681/0a88e9a2-8677-40cd-a6a0-d01d4b8da9ad
 
 
 caption:
