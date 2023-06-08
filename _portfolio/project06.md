@@ -4,7 +4,7 @@ subtitle: "#問題探索/田野採集 #歸納整理 #數據視覺化"
 image: assets/img/portfolio/Vector(1).png
 
 caption:
-  subtitle: "#問題探索/田野採集 #歸納整理 #數據視覺化"
+  subtitle: "#問題探索/田野採集 #歸納整理 #數據視"
   thumbnail: assets/img/portfolio/事拾圖.png
 ---
 ### 方法說明
