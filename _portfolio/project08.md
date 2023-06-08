@@ -4,7 +4,7 @@ subtitle: "#洞察命題/研究分析 #明確定位 #使用者中心"
 image: assets/img/portfolio/Vector (Stroke)(3).png
 
 caption:
-  subtitle: "#洞察命題/研究分析 #明確定位 #使用者中心"
+  subtitle: "#洞察命題/研究分析 #明確定位 ..."
   thumbnail: assets/img/portfolio/人物誌.png
 ---
 ### 方法說明
