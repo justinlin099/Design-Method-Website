@@ -5,7 +5,7 @@ image: https://github.com/justinlin099/Design-Method-Website/assets/61717681/0a8
 
 
 caption:
-  subtitle: "#互相補充和連結 #大量產生點子 #不評價和批評"
+  subtitle: "#互相補充和連結 #大量產生點子 #不評..."
   thumbnail: assets/img/portfolio/腦力激盪.png
 ---
 ### 方法說明
