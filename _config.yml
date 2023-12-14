@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme:  justinlin099/agency-jekyll-theme
+remote_theme:  justinlin099/agency-jekyll-theme-for-design-method-website
 
 url    : "https://designmethod.justinl.in" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
